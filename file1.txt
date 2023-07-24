@@ -1,0 +1,9 @@
+Const person=new Map();
+person.set("name","pratiksha");
+person.set(1,"Number");
+console.log(person);
+
+
+
+output : 
+Map(2){name=>"pratiksha",1=>"Number}
