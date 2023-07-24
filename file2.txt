@@ -1,0 +1,3 @@
+The difference between map and object 
+is map allowed all types of keys and 
+object allowed only string and symbol
