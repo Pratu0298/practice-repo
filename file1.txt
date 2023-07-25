@@ -9,3 +9,5 @@ output :
 Map(2){name=>"pratiksha",1=>"Number}
 
 console.log(person.get(name));  output => pratiksha 
+
+this file is for branch pratiksha 
