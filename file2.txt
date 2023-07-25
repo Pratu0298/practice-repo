@@ -4,4 +4,8 @@ object allowed only string and symbol
 
 map is iterable and objects are not iterable
 
+<<<<<<< HEAD
 these are the notes of master branch
+=======
+these notes are for branch pratiksha 
+>>>>>>> pratiksha
