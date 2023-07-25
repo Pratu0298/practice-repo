@@ -9,3 +9,6 @@ output :
 Map(2){name=>"pratiksha",1=>"Number}
 
 console.log(person.get(name));  output => pratiksha 
+
+
+this is the code of master branch
